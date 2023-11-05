@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "date": "2023-10-31 19:59:43.794071",
+        "title": "test",
+        "text": "some test"
+    },
+    {
+        "id": 2,
+        "date": "2023-11-05 09:26:09.795993",
+        "title": "new note",
+        "text": "new some text"
+    }
+]
